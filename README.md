@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Leonardo! 👋</h1>
+<h1 align="center">Eai, eu sou o Leonardo! 👋</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
